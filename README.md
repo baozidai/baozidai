@@ -1,7 +1,7 @@
 <h1 align="center">👨‍🎓Longzhi Dai<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baozidai.visitor-badge&left_color=royalblue&right_color=black"  /></h1>
 <div align="center">
   
-[![Longzhi Dai's GitHub stats](https://github-readme-stats.vercel.app/api?username=baozidai&count_private=true&show_icons=true&hide_border=true&title_color=fff&text_color=fff&bg_color=22272E&hide_title=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Longzhi Dai's GitHub stats](https://github-readme-stats.vercel.app/api?username=baozidai&count_private=true&show_icons=true&hide_border=true&title_color=fff&text_color=fff&bg_color=22272E&hide_title=false&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
