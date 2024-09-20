@@ -21,5 +21,5 @@
     He works as an SRE (Internship) in Tencent.
   </p>
   <p>
-    He is seeking employment. 📫<a href="mailto:dailongzhi@foxmail.com">Contact him</a>
+    He is seeking full-time employment. 📫<a href="mailto:dailongzhi@foxmail.com">Contact him</a>
   </p></div>
