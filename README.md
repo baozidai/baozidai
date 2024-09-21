@@ -13,12 +13,14 @@
 
 <h3 align="center">👦About Him</h3>
 <p>
-  Longzhi Dai received the B.S degree in Computer Science and Technology from College of Information Engineering, Sichuan Agricultural University, Ya’an, Sichuan, China in 2022. He is currently pursuing the M.S degree in the Computer Science and Technology, Chongqing University, Chongqing, China. His current research interests include network function virtualization, and  cloud native network function.
+  Longzhi Dai received a Bachelor of Engineering degree in Computer Science and Technology from the College of Information Engineering at Sichuan Agricultural University in Ya'an, Sichuan, China, in 2022. He is currently pursuing a Master of Engineering degree in Computer Science and Technology at Chongqing University in Chongqing, China. His research interests include network function virtualization, and  cloud native network function. It is anticipated that he will graduate with a master's degree in June 2025.
 </p>
+<p>
+  He completed an internship as an information science management trainee at the <a href="https://www.boc.cn/en/">Bank of China</a>, Sichuan branch between June and August 2021. He also undertook an internship at <a href="https://www.hundsun.com/">Hundsun</a> between August and October 2021, where he worked as a back-end programme developer.
 <h3 align="center">🔭 Now</h3>
 <div align="center">
   <p>
-    He works as an SRE (Internship) in Tencent.
+  He is currently working as an intern SRE for <a href="https://www.tencent.com">Tencent</a> in Shenzhen, China. </p>
   </p>
   <p>
     He is seeking full-time employment. 📫<a href="mailto:dailongzhi@foxmail.com">Contact him</a>
