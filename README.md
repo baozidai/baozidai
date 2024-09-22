@@ -6,9 +6,7 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,linux,py,pycharm,bash,latex,postman&theme=dark" alt="Skills and tools"/>
-  </a>
 </p>
 
 <h3 align="center">👦About Him</h3>
