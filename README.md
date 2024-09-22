@@ -21,5 +21,5 @@
   He is currently working as an intern SRE for <a href="https://www.tencent.com"><img src="https://im.qq.com/favicon.ico" style="height: 1em;"/>Tencent</a> in Shenzhen, China. </p>
   </p>
   <p>
-    He is seeking full-time employment. 📫<a href="mailto:dailongzhi@foxmail.com">Contact him</a>
+    He is seeking full-time employment. <a href="mailto:dailongzhi@foxmail.com">📫Contact him</a>
   </p></div>
