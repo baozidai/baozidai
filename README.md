@@ -28,5 +28,5 @@
 <h3 align="center">🔭 Now</h3>
 <div align="center">
   <p>
-    He is seeking full-time employment. <a href="mailto:dailongzhi@foxmail.com">📫Contact him</a>
+    He's currently busy with graduate school.
   </p></div>
