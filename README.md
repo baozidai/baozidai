@@ -28,5 +28,5 @@
 <h3 align="center">🔭 Now</h3>
 <div align="center">
   <p>
-    He's currently busy with graduate school.
+    He's free for a while.
   </p></div>
