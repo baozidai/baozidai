@@ -26,4 +26,5 @@
 <div align="center">
   <p>
     He has just started a new job.
-  </p></div>
+  </p>
+  <p>Also <a href="https://baozidai.me/about/">an about page</a> in Chinese.</p></div>
